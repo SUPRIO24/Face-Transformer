@@ -1,0 +1,8 @@
+--index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+-f https://shi-labs.com/natten/wheels/cu117/torch2.0.0/index.html
+natten
+git+https://github.com/rwightman/pytorch-image-models.git@9d6aad44f8fd32e89e5cca503efe3ada5071cc2a
+fvcore
+pyyaml

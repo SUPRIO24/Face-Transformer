@@ -1,0 +1,12 @@
+opencv-python
+mxnet
+numpy==1.23.5
+matplotlib
+scikit-learn
+IPython
+vit_pytorch
+timm
+Pillow
+scipy
+einops
+tensorboardX
